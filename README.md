@@ -27,11 +27,8 @@ week2
 Sketching & low fidelity prototype 
  week 2 I start working on the shape of my module. Drawing sketchs using paper and pencil, sticky notes and scissors.
  here is a different images of what I did
-![Uploading paper pro.jfif…]()
 
-![Uploading papaer proto.jfif…]()
-
- ![Uploading setching.jfif…]()
+![papaer-proto](https://user-images.githubusercontent.com/71715660/219804314-d9813a43-403d-453d-8c46-9efb7a83e809.jpg)
 
  
 week3
@@ -40,14 +37,22 @@ Start using the software and watch tutorilas because it wasn't easy engouh to un
 and also I try the printer and print my first pices 
 as you might see in this page 
 
+![first-time-use-the-printer](https://user-images.githubusercontent.com/71715660/219804489-753ddbe0-e826-488e-a6da-d3aff704606e.jpg)
 
 
 week4 printing 
 In this week I finally finalize my idea and start printing my different picese 
 I use 2 different shapes , different size and the same thikness foe all of them 
+![fausion-prototyp](https://user-images.githubusercontent.com/71715660/219804539-b57aa450-dc10-4f88-ad06-3acaf80257e7.jpg)
+![start-print](https://user-images.githubusercontent.com/71715660/219804552-93165391-3822-4a98-a256-6e952bef39b9.jpg)
 
 week 5
 Print again use differnt thinkness , and add new pices as connector 
+
+![first-print3](https://user-images.githubusercontent.com/71715660/219804605-cf732c8a-f6c3-4f80-bbe7-a3b8259dd6e2.jpg)
+
+
+https://user-images.githubusercontent.com/71715660/219804590-47343331-ddb8-4c75-98b1-3925377323a1.mp4
 
 
 Week6
