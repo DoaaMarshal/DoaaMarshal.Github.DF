@@ -19,7 +19,7 @@ Geometric shapes for  home decoration
 and Finally I decide to design something releated to my Sudanese cultrue ( Sudanses bridel jewelry)
 But at the sametime I like the idea of combining the geometric shapes so I decides to design an jewelry using geometric shapes .
 
- ![Sudanses bridel jewelry]("C:\Users\mhamm\OneDrive\Desktop\Sudanese jewelry.png")
+![Sudanese jewelry](https://user-images.githubusercontent.com/71715660/219802268-3180146c-0534-4904-9106-1d0ccfe42694.png)
 
 
 
