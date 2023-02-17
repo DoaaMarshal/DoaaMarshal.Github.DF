@@ -27,7 +27,12 @@ week2
 Sketching & low fidelity prototype 
  week 2 I start working on the shape of my module. Drawing sketchs using paper and pencil, sticky notes and scissors.
  here is a different images of what I did
- 
+![Uploading paper pro.jfif…]()
+
+![Uploading papaer proto.jfif…]()
+
+ ![Uploading setching.jfif…]()
+
  
 week3
 Prototype in Fusion 360 and first print 
