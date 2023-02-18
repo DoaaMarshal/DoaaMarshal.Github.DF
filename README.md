@@ -112,5 +112,6 @@ I will design new connector with different dimension and different concept as we
 I will  add one more design to my Pieces 
 I will print as much as I can 
 
-![744ec12d-d9e1-4c6b-9821-0db59fab0aed](https://user-images.githubusercontent.com/71715660/219867089-b546241b-33b3-475c-ab31-cc5a49ccd978.png)
-
+ # Final Version,,, to be uploaded 
+       # coming soon #
+ #stay tuned :)))      
