@@ -84,6 +84,7 @@ In this week I start connect the different shapes which I already create as you 
 ![66a7184a-ccbc-43e6-b0eb-512fb18f6820](https://user-images.githubusercontent.com/71715660/219866348-03a2493e-db25-4c10-92d1-5f679f118cca.png)
 
  then I decide to Print again use different thickness, color, and add new 2 pieces as connector 
+ This time I choose a 0.4mm thickness,instead of 0.35mm (by defult) and here are the results:
 
 ![6ae60398-bc41-421e-80ad-df38c68d7c76](https://user-images.githubusercontent.com/71715660/219866415-b5ac8cba-a307-42a6-9366-3c15d3b3f9d8.png)
 
@@ -92,6 +93,24 @@ Keep printing and try to connect the pieces .
 
 
 This week was the most intense and complicated one ever   .
-All students wanted to print, we all ran out of time. I spent 4/5 at the Fablab and printed just four times after waiting in a long queue ,  I was able to print a total of   78 pieces,most of them was not appropriate enough due to some issue in the printer I guess, So I was supposed to print more, on 17/02 I was the first one who arrived to the lab with my colleague KiKi , we arrived at 7:40h and finish at 5h45 .
-I was lucky enough to print two times . although most of the pieces do not work properly when connected to each other .
+All students wanted to print, we all ran out of time. I spent 4/5 at the Fablab and printed just four times after waiting in a long queue ,  I was able to print a total of   78 pieces,most of them was not appropriate enough due to some issue in the printer I guess, So I was supposed to print more,
+on 17/02 I was the first one who arrived to the lab with my colleague KiKi , we arrived at 7:40h and finish at 5h45 .
+I was lucky enough to print two times, chanage the thinkness from 0.4mm to 0.6mm . although most of the pieces do not work properly when connected to each other .
+
+![f![start-print](https://user-images.githubusercontent.com/71715660/219867100-cf6f9b95-2e5f-441c-a760-27a63dae929f.jpg)
+
+irst-print3](https://user-images.githubusercontent.com/71715660/219867092-932ac1db-2fe1-4352-867a-f45e444f7000.jpg)
+
+# # This is what I was able to implement so far , But I am still motivated to do more and to make as many retouchers as I can to fix my project .
+
+![744ec12d-d9e1-4c6b-9821-0db59fab0aed](https://user-images.githubusercontent.com/71715660/219867541-91a52186-4843-43c9-8d4c-faec07191282.png)
+
+#As a future Implementation :
+
+I want To  make these pieces  connected to each other  in a good and functional way 
+I will design new connector with different dimension and different concept as well 
+I will  add one more design to my Pieces 
+I will print as much as I can 
+
+![744ec12d-d9e1-4c6b-9821-0db59fab0aed](https://user-images.githubusercontent.com/71715660/219867089-b546241b-33b3-475c-ab31-cc5a49ccd978.png)
 
