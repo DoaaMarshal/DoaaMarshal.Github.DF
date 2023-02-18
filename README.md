@@ -30,14 +30,25 @@ Sketching & low fidelity prototype
 
 ![papaer-proto](https://user-images.githubusercontent.com/71715660/219804314-d9813a43-403d-453d-8c46-9efb7a83e809.jpg)
 
- 
-week3
+
+ ![first time](https://user-images.githubusercontent.com/71715660/219855810-8552b99f-10c9-4e15-be43-a9aba50aa72f.png)
+
+week3![Uploading first time.png…]()
+
 Prototype in Fusion 360 and first print 
 Start using the software and watch tutorilas because it wasn't easy engouh to understand without watching some guides 
 and also I try the printer and print my first pices 
 as you might see in this page 
 
 ![first-time-use-the-printer](https://user-images.githubusercontent.com/71715660/219804489-753ddbe0-e826-488e-a6da-d3aff704606e.jpg)
+
+
+![rotoyp 2](https://user-images.githubusercontent.com/71715660/219855799-f299daae-a549-4221-9607-767d6f0514f8.png)
+
+![8bdc0a76-46bd-4bf8-836c-074ad08141b6](https://user-images.githubusercontent.com/71715660/219855898-23e214f0-e24e-42ff-8eb8-74db2b4b74fa.png)
+
+
+![prototyp1](https://user-images.githubusercontent.com/71715660/219855903-d0095210-53c5-44bb-8a4f-eca7882d70c4.png)
 
 
 week4 printing 
@@ -54,6 +65,8 @@ Print again use differnt thinkness , and add new pices as connector
 
 https://user-images.githubusercontent.com/71715660/219804590-47343331-ddb8-4c75-98b1-3925377323a1.mp4
 
+
+![pices one](https://user-images.githubusercontent.com/71715660/219855940-3bd1bd10-81d5-46c1-bed6-a9bbd485f722.png)
 
 Week6
 Keep printing and try to connect the pieces 
