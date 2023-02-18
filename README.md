@@ -72,5 +72,26 @@ I use 2 different shapes , different sizes and the same thickness for all of the
 
 ![sketch main pices](https://user-images.githubusercontent.com/71715660/219865315-5f9704d3-ef5d-45c2-a12a-914ef8e49aa5.png)
 
-Patren 2
+#Pattren 2
 ![pices one](https://user-images.githubusercontent.com/71715660/219865322-f886d2bd-7840-4f7a-a94e-3b784fc0cdb8.png)
+#After print
+![9b8d1245-69ba-45b7-a943-be33c504d96b](https://user-images.githubusercontent.com/71715660/219866318-4b9605f9-2920-48a1-8ccb-ab5500fa881a.png)
+
+
+# week 5
+In this week I start connect the different shapes which I already create as you might see here
+# same shape different size 
+![66a7184a-ccbc-43e6-b0eb-512fb18f6820](https://user-images.githubusercontent.com/71715660/219866348-03a2493e-db25-4c10-92d1-5f679f118cca.png)
+
+ then I decide to Print again use different thickness, color, and add new 2 pieces as connector 
+
+![6ae60398-bc41-421e-80ad-df38c68d7c76](https://user-images.githubusercontent.com/71715660/219866415-b5ac8cba-a307-42a6-9366-3c15d3b3f9d8.png)
+
+#Week6
+Keep printing and try to connect the pieces .
+
+
+This week was the most intense and complicated one ever   .
+All students wanted to print, we all ran out of time. I spent 4/5 at the Fablab and printed just four times after waiting in a long queue ,  I was able to print a total of   78 pieces,most of them was not appropriate enough due to some issue in the printer I guess, So I was supposed to print more, on 17/02 I was the first one who arrived to the lab with my colleague KiKi , we arrived at 7:40h and finish at 5h45 .
+I was lucky enough to print two times . although most of the pieces do not work properly when connected to each other .
+
