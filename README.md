@@ -119,7 +119,7 @@ Design I want to Add
 
  # Final Version,,, to be uploaded 
        # coming soon #
- #stay tuned :)))      
+    
 ![image](https://user-images.githubusercontent.com/71715660/219953116-d49fc3f9-89fc-4ffc-a935-a0a202d03d26.png)
 
 
