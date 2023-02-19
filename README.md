@@ -24,7 +24,7 @@ But at the sametime I like the idea of combining the geometric shapes so I decid
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-week2
+# week2
 Sketching & low fidelity prototype 
  week 2 I start working on the shape of my module. 
  To have a better understanding of the shape and the connection,
@@ -41,7 +41,7 @@ Finally I decided working on those different shapes
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Week 3
+# Week 3
 Prototype in Fusion 360 and first print 
 In this week Start using the software and watch tutorials because it wasn't easy enough to understand without watching some guides 
 and also I try the printer and print my first pieces as shown here.
@@ -64,7 +64,7 @@ I started designing many different  ideas using fusion 360 as well
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Week 4
+# Week 4
 week4 printing and keep designing on !!
 In this week I finally finalise my idea and start printing my different pieces 
 I use 2 different shapes , different sizes and the same thickness for all of them .
@@ -72,7 +72,7 @@ I use 2 different shapes , different sizes and the same thickness for all of the
 
 ![sketch main pices](https://user-images.githubusercontent.com/71715660/219865315-5f9704d3-ef5d-45c2-a12a-914ef8e49aa5.png)
 
-#Pattren 2
+# Pattren 2
 ![pices one](https://user-images.githubusercontent.com/71715660/219865322-f886d2bd-7840-4f7a-a94e-3b784fc0cdb8.png)
 #After print
 ![9b8d1245-69ba-45b7-a943-be33c504d96b](https://user-images.githubusercontent.com/71715660/219866318-4b9605f9-2920-48a1-8ccb-ab5500fa881a.png)
@@ -88,7 +88,7 @@ In this week I start connect the different shapes which I already create as you 
 
 ![6ae60398-bc41-421e-80ad-df38c68d7c76](https://user-images.githubusercontent.com/71715660/219866415-b5ac8cba-a307-42a6-9366-3c15d3b3f9d8.png)
 
-#Week6
+# Week6
 Keep printing and try to connect the pieces .
 
 
