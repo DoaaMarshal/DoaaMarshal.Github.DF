@@ -111,6 +111,11 @@ I want To  make these pieces  connected to each other  in a good and functional 
 I will design new connector with different dimension and different concept as well 
 I will  add one more design to my Pieces 
 I will print as much as I can 
+Design I want to Add 
+ ![image](https://user-images.githubusercontent.com/71715660/219950845-0c1ff0ec-cfa1-4fd9-b36d-032ebe4a0efd.png)
+
+![image](https://user-images.githubusercontent.com/71715660/219950878-70e406bf-f65c-473a-aba2-563ca03c31da.png)
+
 
  # Final Version,,, to be uploaded 
        # coming soon #
