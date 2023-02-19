@@ -120,3 +120,9 @@ Design I want to Add
  # Final Version,,, to be uploaded 
        # coming soon #
  #stay tuned :)))      
+ ![image](https://user-images.githubusercontent.com/71715660/219952907-4a135511-fc0f-4675-b777-7579b6863e79.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/71715660/219952927-655c8c36-bd25-449b-a902-43611bc93196.png)
+
+
