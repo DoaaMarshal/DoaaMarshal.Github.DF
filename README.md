@@ -9,7 +9,7 @@ Autodesk Fusion 360 for 3D modelling
 PrusaSlicer for slicing
 Prusa 3D print for printing
 
-#Week one :
+# Week one :
 Installtion of the software 
 Brainstorming & Ideation
 
